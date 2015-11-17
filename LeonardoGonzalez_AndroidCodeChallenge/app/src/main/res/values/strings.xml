@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LeonardoGonzalez_AndroidCodeChallenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_search">SEARCH</string>
+    <string name="comments">Comments</string>
+    <string name="ups">Ups</string>
+    <string name="downs">Downs</string>
+    <string name="default_filter">funny</string>
+    <string name="title_activity_mail">MailActivity</string>
+    <string name="to">To:</string>
+    <string name="subject">Subject:</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="new_message">New Message</string>
+
+</resources>
